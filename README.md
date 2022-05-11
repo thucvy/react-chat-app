@@ -3,9 +3,9 @@
 This project was to create a chat application using React Chat Engine, Socket, and Rest APIs
 
 ## Instruction:
-User can log in using this credential below:
-	username: vy
-	password: thucvy
+User can log in using this credential below:\
+username: vy\
+password: thucvy
 
 Happy chatting!
 
