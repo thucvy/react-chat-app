@@ -3,6 +3,12 @@
 This project was to create a chat application using React Chat Engine, Socket, and Rest APIs
 
 ## Instruction:
+Since this application has not been launched on any server, please clone to your local then type in command\
+`npm i`\
+then \
+`npm start` \
+to open the app\
+\
 User can log in using this credential below:\
 username: vy\
 password: thucvy
